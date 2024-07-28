@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/lazy-bueaty-mall.iml" filepath="$PROJECT_DIR$/.idea/lazy-bueaty-mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lazybueaty-product/lazybueaty-product.iml" filepath="$PROJECT_DIR$/lazybueaty-product/lazybueaty-product.iml" />
+    </modules>
+  </component>
+</project>
